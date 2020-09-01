@@ -4,9 +4,9 @@ Hi, I'm Brais a PhD student in the departmen of Sports Sciences at the Universit
 
 ## My values
 
-- 🗻 Minimalism
-- 📚 Never-stop learner
-- 🏋️ Passionate and hard worker
+🗻 Minimalism
+📚 Never-stop learner
+🏋️ Passionate and hard worker
 
 ## How I work
 
