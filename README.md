@@ -14,3 +14,5 @@ Hi, I'm Brais a PhD student in the departmen of Sports Sciences at the Universit
 ## How I work
 
 ## Get in touch
+
+- Twitter: https://twitter.com/AntelaBrais
