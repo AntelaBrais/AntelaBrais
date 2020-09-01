@@ -1,7 +1,7 @@
-### Brais Antela - @AntelaBrais 👋
+# Brais Antela - @AntelaBrais 👋
 ---
 
-### My values
+## My values
 ---
 
 - 🔭 I’m currently working on ...
@@ -9,8 +9,8 @@
 - 👯 I’m looking to collaborate on ...
 
 
-### How I work
+## How I work
 ---
 
-### Get in touch
+## Get in touch
 ---
