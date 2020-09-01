@@ -1,10 +1,12 @@
 # Brais Antela - @AntelaBrais 👋
 
+Hi, I'm Brais a PhD student in the departmen of Sports Sciences at the University of Vigo, also studying an HNC on Web Development.
+
 ## My values
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🗻 Minimalism
+- 📚 Never-stop learner
+- 🏋️ Passionate and hard worker
 
 ## How I work
 
