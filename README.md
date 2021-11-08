@@ -1,6 +1,6 @@
 # Brais Antela - @AntelaBrais 👋
 
-Hi, I'm Brais a PhD student at Vigo University, also studying an HNC on Web Development.
+Hi, I'm Brais a PhD student at Vigo University.
 
 ## My values
 
