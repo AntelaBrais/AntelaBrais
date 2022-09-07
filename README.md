@@ -1,6 +1,6 @@
 # Brais Antela - @AntelaBrais 👋
 
-Hi, I'm Brais, a proud galician developer.
+Hi, I'm Brais, a proud galician developer
 
 ## My values
 
